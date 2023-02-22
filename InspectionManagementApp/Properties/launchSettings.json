@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InspectionManagementApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7236 --verbose"
+    }
+  }
+}
